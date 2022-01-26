@@ -3,8 +3,10 @@ changes:
 - added Minecraft Logo
 - added Minecraft Font
 
+# Downloads:
+
 - Setup File: https://bit.ly/3u3aXGT (For Windows)
-- Jar file:
+- Jar file: https://bit.ly/3rWANJE (for others System Operatives)
 
 # Version Minecraft Launcher 2.0
 changes:
@@ -14,10 +16,20 @@ changes:
 - Sintax MySQL fixed
 - added roboto font
 - access button programming fixed
+
+# Downloads:
+
+- Setup File: https://bit.ly/3fXMoTt (for Windows)
+- Jar File: https://bit.ly/3o0Z00k (for others System Operatives)
+
 # Version Minecraft Launcher 1.0
 changes:
 - added Database
 - added Desing
+
+# Downloads:
+
+- unfortunately I lost the .jar file and the setup
 
 # Remenber:
 If you're looking at this github, even though it's private,
