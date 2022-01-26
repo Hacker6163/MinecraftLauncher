@@ -8,6 +8,10 @@ changes:
 - Setup File: https://bit.ly/3u3aXGT (For Windows)
 - Jar file: https://bit.ly/3rWANJE (for others System Operatives)
 
+# Warning:
+
+- if you are going to download the .JAR file you will have to download the entire Repository because there are components of the .jar file if it does not work it is because you have to download its components that are
+
 # Version Minecraft Launcher 2.0
 changes:
 - added Minecraft Sistem Login
@@ -21,6 +25,10 @@ changes:
 
 - Setup File: https://bit.ly/3fXMoTt (for Windows)
 - Jar File: https://bit.ly/3o0Z00k (for others System Operatives)
+
+# Warning
+
+- Warning: if you are going to download the .JAR file you will have to download the entire Repository because there are components of the .jar file if it does not work it is because you have to download its components that are
 
 # Version Minecraft Launcher 1.0
 changes:
