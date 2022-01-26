@@ -3,7 +3,8 @@ changes:
 - added Minecraft Logo
 - added Minecraft Font
 
-- https://github.com/Hacker6163/MinecraftLauncher/raw/main/2.1/MinecraftLauncher%202.1%20Setup.exe
+- Setup File: https://bit.ly/3u3aXGT (For Windows)
+- Jar file:
 
 # Version Minecraft Launcher 2.0
 changes:
