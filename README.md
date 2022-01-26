@@ -29,7 +29,7 @@ changes:
 
 # Downloads:
 
-- unfortunately I lost the .jar file and the setup
+- unfortunately I lost the .jar file and the setup :(
 
 # Remenber:
 If you're looking at this github, even though it's private,
