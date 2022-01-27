@@ -6,11 +6,11 @@ changes:
 # Downloads:
 
 - Setup File: https://bit.ly/3u3aXGT (For Windows)
-- Jar file: https://bit.ly/3rWANJE (for others System Operatives)
+- Jar file: https://bit.ly/34biQ1O (for others System Operatives)
 
 # Warning:
 
-- if you are going to download the .JAR file you will have to download the entire Repository because there are components of the .jar file if it does not work it is because you have to download its components that are
+- If you are going to download the .jar link, you will automatically download the entire project, including the setup and the .jar, this is only for those who do not have windows, since in the .jar file there are folders with the components of the .jar and without that the .jar does not work and if you download the setup automatically the project is downloaded with its components
 
 # Version Minecraft Launcher 2.0
 changes:
@@ -24,11 +24,11 @@ changes:
 # Downloads:
 
 - Setup File: https://bit.ly/3fXMoTt (for Windows)
-- Jar File: https://bit.ly/3o0Z00k (for others System Operatives)
+- Jar File: https://bit.ly/34biQ1O (for others System Operatives)
 
 # Warning
 
-- Warning: if you are going to download the .JAR file you will have to download the entire Repository because there are components of the .jar file if it does not work it is because you have to download its components that are
+- If you are going to download the .jar link, you will automatically download the entire project, including the setup and the .jar, this is only for those who do not have windows, since in the .jar file there are folders with the components of the .jar and without that the .jar does not work and if you download the setup automatically the project is downloaded with its components
 
 # Version Minecraft Launcher 1.0
 changes:
