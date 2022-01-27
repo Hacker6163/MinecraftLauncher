@@ -5,8 +5,11 @@ changes:
 
 # Downloads:
 
-- Setup File: https://bit.ly/3u3aXGT (For Windows)
-- Jar file: https://bit.ly/34biQ1O (for others System Operatives)
+- Setup File: [Click Here][2] (For Windows)
+- Jar file: [Zip][1] | [Tar.gz][3] (for others System Operatives)
+[1]: https://bit.ly/3rUnRUM
+[2]: https://bit.ly/34g7edV
+[3]: https://bit.ly/3o466kQ
 
 # Version Minecraft Launcher 2.0
 changes:
@@ -19,8 +22,11 @@ changes:
 
 # Downloads:
 
-- Setup File: https://bit.ly/3fXMoTt (for Windows)
-- Jar File: https://bit.ly/34biQ1O (for others System Operatives)
+- Setup File: [Click Here][2] (For Windows)
+- Jar file: [Zip][1] | [Tar.gz][3] (for others System Operatives)
+[1]: https://bit.ly/3AE4EKZ
+[2]: https://bit.ly/3fZ4NPP
+[3]: https://bit.ly/3IJIDxm
 
 # Version Minecraft Launcher 1.0
 changes:
