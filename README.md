@@ -6,8 +6,7 @@ changes:
 # Downloads:
 
 - Setup File: [Click Here][2] (For Windows)
-- Jar file: [Zip][1] | [Tar.gz][3] (for others System Operatives)
-[1]: https://bit.ly/3rUnRUM
+- Jar file: [Zip](https://bit.ly/3rUnRUM "Zip") | [Tar.gz][3] (for others System Operatives)
 [2]: https://bit.ly/34g7edV
 [3]: https://bit.ly/3o466kQ
 
