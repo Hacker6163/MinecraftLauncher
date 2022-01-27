@@ -8,10 +8,6 @@ changes:
 - Setup File: https://bit.ly/3u3aXGT (For Windows)
 - Jar file: https://bit.ly/34biQ1O (for others System Operatives)
 
-# Warning:
-
-- If you are going to download the .jar link, you will automatically download the entire project, including the setup and the .jar, this is only for those who do not have windows, since in the .jar file there are folders with the components of the .jar and without that the .jar does not work and if you download the setup automatically the project is downloaded with its components
-
 # Version Minecraft Launcher 2.0
 changes:
 - added Minecraft Sistem Login
@@ -26,10 +22,6 @@ changes:
 - Setup File: https://bit.ly/3fXMoTt (for Windows)
 - Jar File: https://bit.ly/34biQ1O (for others System Operatives)
 
-# Warning
-
-- If you are going to download the .jar link, you will automatically download the entire project, including the setup and the .jar, this is only for those who do not have windows, since in the .jar file there are folders with the components of the .jar and without that the .jar does not work and if you download the setup automatically the project is downloaded with its components
-
 # Version Minecraft Launcher 1.0
 changes:
 - added Database
@@ -38,6 +30,10 @@ changes:
 # Downloads:
 
 - unfortunately I lost the .jar file and the setup :(
+
+# Warning:
+
+- If you are going to download the .jar link, you will automatically download the entire project, including the setup and the .jar, this is only for those who do not have windows, since in the .jar file there are folders with the components of the .jar and without that the .jar does not work and if you download the setup automatically the project is downloaded with its components
 
 # Remenber:
 If you're looking at this github, even though it's private,
