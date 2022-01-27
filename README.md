@@ -5,7 +5,7 @@ changes:
 
 # Downloads:
 
-- Setup File: https://bit.ly/3u3aXGT (For Windows)
+- Setup File: [Click Here][https://bit.ly/3u3aXGT] (For Windows)
 - Jar file: https://bit.ly/34biQ1O (for others System Operatives)
 
 # Version Minecraft Launcher 2.0
