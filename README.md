@@ -7,7 +7,7 @@ changes:
 
 # Downloads:
 
-- Setup File: [Click Here](https://bit.ly/3KUNKwz "Click Here") (For Windows)
+- Setup File: [Click Here](https://bit.ly/3ILoF57 "Click Here") (For Windows)
 - Jar File: [Zip](https://bit.ly/3s20yZ8 "Zip") | [Tar.gz](https://bit.ly/3AFNsER "Tar.gz") (for others System Operatives)
 
 # Version Minecraft Launcher 2.1
