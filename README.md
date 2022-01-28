@@ -1,4 +1,4 @@
-# Versio Minecraft Luancher 3.0Beta.1
+# Version Minecraft Luancher 3.0Beta.1
 changes:
 - added Desing in the main menu 
 - now when you log in your username, the username appears on the screen and in the title of the main menu
