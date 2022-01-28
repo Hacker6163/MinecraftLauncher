@@ -1,3 +1,15 @@
+# Versio Minecraft Luancher 3.0Beta.1
+changes:
+- added Desing in the main menu 
+- now when you log in your username, the username appears on the screen and in the title of the main menu
+- added background
+- the error that the setup is version 1.0 was fixed
+
+# Downloads:
+
+- Setup File: [Click Here](https://bit.ly/3KUNKwz"Click Here") (For Windows)
+- Jar File: [Zip](https://bit.ly/3s20yZ8 "Zip") | [Tar.gz](https://bit.ly/3AFNsER "Tar.gz") (for others System Operatives)
+
 # Version Minecraft Launcher 2.1
 changes:
 - added Minecraft Logo
