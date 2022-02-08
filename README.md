@@ -60,4 +60,4 @@ also the project does not have a remote database
 
 # Dependence:
 
-- if you want to have the database to test the project [Donwload Here](https://bit.ly/35ilrYn "Download Here") the charset is utf8-unicode-ci
+- if you want to have the database to test the project [Donwload Here](https://bit.ly/3uAOZv1 "Download Here") the charset is utf8-unicode-ci
