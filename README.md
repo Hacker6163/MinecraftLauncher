@@ -1,3 +1,11 @@
+# Version Minecraft Launcher 3.0beta.2
+changes:
+- now you can play minecraft with all its accessories, accounts, etc
+- added Remote database!!
+- added register panel!
+- added Herobrine
+- Vape v4 mod added!!
+- added version 1.18
 # Version Minecraft Luancher 3.0Beta.1
 changes:
 - added Desing in the main menu 
