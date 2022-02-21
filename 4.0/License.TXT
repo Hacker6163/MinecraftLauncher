@@ -1,0 +1,17 @@
+=============================
+Minecraft Launcher by MeGAMEP
+=============================
+
+If you want to distribute this free launcher you must do it through this link mega.io/asdadassa I don't know. They allow external links created by the distributor.
+
+If you want to distribute the launcher you must do it from the installer (setup file)
+
+The .jar file is available if you are on a non-windows operating system examples: Ubuntu MacOS Linux and others
+
+Note:
+* You can support me by sharing the launcher with everyone.
+* You can play safely without breaking the EULA rules:
+https://www.minecraft.net/en-us/eula
+
+don't take it seriously lol
+
