@@ -1,4 +1,4 @@
-# Version Minecraft Launcher 3.0beta.2
+# Version Minecraft Launcher 4.0
 changes:
 - now you can register freely
 - added images next to the fields
