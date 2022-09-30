@@ -2,7 +2,7 @@
 changes:
 - Bug fixes and errors
 - improved interface, now it doesn't look ugly anymore
-- now you can download the jar only if you have problems, 
+- now you can download the jar only, 
   but if you want to see the gif you will have to download the src
 - Fixed a very old bug that told you that login is incorrect even though a field was empty
 - Small text added before installing the setup
