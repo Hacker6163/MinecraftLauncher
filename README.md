@@ -1,4 +1,5 @@
 # Version Minecraft Launcher 5.0
+changes:
 - Bug fixes and errors
 - improved interface, now it doesn't look ugly anymore
 - now you can download the jar only if you have problems, 
@@ -9,6 +10,7 @@
 - Easter Eggs Added
 
 # Download:
+
 - Setup File: [Click Here](https://bit.ly/3CnKXK8 "Click Here") (For Windows)
 - Jar File: [Zip](https://bit.ly/3BSTIdD "Zip") | [Tar.gz](https://bit.ly/3Cn3AgU "Tar.gz") (for others System Operatives)
 
@@ -20,6 +22,7 @@ changes:
   it replaced the place of the email, making the verification if a name exists to be concentrated in the email and not in the name
 
 # Downloads:
+
 - not available
 
 # Version Minecraft Launcher 2.1
