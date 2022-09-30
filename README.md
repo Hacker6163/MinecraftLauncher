@@ -11,7 +11,7 @@ changes:
 
 # Download:
 
-- Setup File: [Click Here](https://bit.ly/3dRvwjI "Click Here") (For Windows)
+- Setup File: [Click Here](https://bit.ly/3SA0Imm "Click Here") (For Windows)
 - Jar File: [Zip](https://bit.ly/3USdKxm "Zip") | [Tar.gz](https://bit.ly/3SMBCAT "Tar.gz") (for others System Operatives)
 
 # Version Minecraft Launcher 4.0
