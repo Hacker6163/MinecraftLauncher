@@ -1,9 +1,25 @@
+# Version Minecraft Launcher 5.0
+- Bug fixes and errors
+- improved interface, now it doesn't look ugly anymore
+- now you can download the jar only if you have problems, 
+  but if you want to see the gif you will have to download the src
+- Fixed a very old bug that told you that login is incorrect even though a field was empty
+- Small text added before installing the setup
+- Password fields changed the text font to roboto
+- Easter Eggs Added
+
+# Download:
+- Setup file
+
 # Version Minecraft Launcher 4.0
 changes:
 - now you can register freely
 - added images next to the fields
 - fixed a error in the code that instead of the name being put correctly in its place in the database, 
   it replaced the place of the email, making the verification if a name exists to be concentrated in the email and not in the name
+
+# Downloads:
+- not available
 
 # Version Minecraft Launcher 2.1
 changes:
