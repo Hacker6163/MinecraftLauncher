@@ -6,8 +6,8 @@
  
 # News:
   # Minecarft Launcher 5.1:
-    - bug fix
-    - now only one instance can be opened
+    - Bug fix
+    - Now only one instance can be opened
     - The setup message that appears before completing the installation has been removed
     - Details added to the executable
 
