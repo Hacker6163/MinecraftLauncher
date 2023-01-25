@@ -20,6 +20,8 @@ it's just a project I created for fun, just add the login system and font.
 
 - If you are going to download the .jar link, you will automatically download the entire project, including the setup and the .jar, this is only for those who do not have windows, since in the .jar file there are folders with the components of the .jar and without that the .jar does not work and if you download the setup automatically the project is downloaded with its components
 
+- If you are using a non-windows operating system, you will need to install the .zip or .targ file
+
 # Dependence:
 
 - if you want to have the database to test the project (outdated) the charset is utf8-unicode-ci
